@@ -1,0 +1,7 @@
+{
+    "exp": "t5_finetune",
+    "decoding": "Beam-3",
+    "bleu": 0.9011489577337667,
+    "latency_ms": 234.876309633255,
+    "long_sentence_bleu": 0.927392411659668
+}

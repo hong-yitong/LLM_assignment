@@ -1,0 +1,7 @@
+{
+    "exp": "rnn_dot",
+    "decoding": "Beam-3",
+    "bleu": 0.46263352120151724,
+    "latency_ms": 56.86736702919006,
+    "long_sentence_bleu": 0.5115941047753392
+}

@@ -1,0 +1,7 @@
+{
+    "exp": "trans_pos_relative_mock",
+    "decoding": "Greedy",
+    "bleu": 0.17297054502296702,
+    "latency_ms": 8592.5499355793,
+    "long_sentence_bleu": 0.20054841092388628
+}

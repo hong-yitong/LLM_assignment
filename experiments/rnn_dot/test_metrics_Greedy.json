@@ -1,0 +1,7 @@
+{
+    "exp": "rnn_dot",
+    "decoding": "Greedy",
+    "bleu": 0.5162069543361972,
+    "latency_ms": 13.058689832687378,
+    "long_sentence_bleu": 0.5746138758426887
+}

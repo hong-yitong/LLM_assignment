@@ -1,0 +1,7 @@
+{
+    "exp": "rnn_free_running_tf0",
+    "decoding": "Greedy",
+    "bleu": 0.10714351959585393,
+    "latency_ms": 15.201011896133423,
+    "long_sentence_bleu": 0.11471682036070259
+}

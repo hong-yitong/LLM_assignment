@@ -1,0 +1,7 @@
+{
+    "exp": "trans_abs_sin",
+    "decoding": "Greedy",
+    "bleu": 0.2273240385146932,
+    "latency_ms": 4097.931976318359,
+    "long_sentence_bleu": 0.26112620868738995
+}

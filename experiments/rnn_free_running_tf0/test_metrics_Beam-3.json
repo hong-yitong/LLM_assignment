@@ -1,0 +1,7 @@
+{
+    "exp": "rnn_free_running_tf0",
+    "decoding": "Beam-3",
+    "bleu": 0.10945978136681643,
+    "latency_ms": 44.75843906402588,
+    "long_sentence_bleu": 0.11900304214399463
+}

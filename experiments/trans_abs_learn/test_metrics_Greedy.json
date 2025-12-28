@@ -1,0 +1,7 @@
+{
+    "exp": "trans_abs_learn",
+    "decoding": "Greedy",
+    "bleu": 0.20535701432500839,
+    "latency_ms": 3703.883248567581,
+    "long_sentence_bleu": 0.23655948165685392
+}

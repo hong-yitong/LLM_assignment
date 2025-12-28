@@ -1,0 +1,7 @@
+{
+    "exp": "trans_base",
+    "decoding": "Greedy",
+    "bleu": 0.3757711233892294,
+    "latency_ms": 3179.3847501277924,
+    "long_sentence_bleu": 0.35711468184056216
+}

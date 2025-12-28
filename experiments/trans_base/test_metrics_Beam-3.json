@@ -1,0 +1,7 @@
+{
+    "exp": "trans_base",
+    "decoding": "Beam-3",
+    "bleu": 0.36149639620799895,
+    "latency_ms": 13270.174396038055,
+    "long_sentence_bleu": 0.32340844773579686
+}

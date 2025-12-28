@@ -1,0 +1,7 @@
+{
+    "exp": "t5_finetune",
+    "decoding": "Greedy",
+    "bleu": 0.6349420530764215,
+    "latency_ms": 207.10309386253357,
+    "long_sentence_bleu": 0.6567442641495301
+}
